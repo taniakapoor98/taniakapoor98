@@ -1,6 +1,7 @@
 # Hey there, I’m Tania Kapoor! 👋
 
-![Profile Banner](https://github.com/taniakapoor98/taniakapoor98/blob/main/github_gif.gif)
+<img src="https://github.com/taniakapoor98/taniakapoor98/blob/main/github_gif.gif" alt="Profile Banner" width="600" />
+
 *Turning data into stories and code into impact.*
 
 I’m a passionate AI/ML Engineer & Data Science  with a knack for blending technical creativity with real-world solutions. From childhood, I’ve been driven to make a difference—now, I wield AI, ML, and data to craft tools that spark meaningful change. Whether it’s predicting energy surpluses or building healthcare apps, I see every dataset as a chance to innovate.
