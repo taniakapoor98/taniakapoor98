@@ -50,7 +50,7 @@ I’m a passionate AI/ML Engineer & Data Science enthusiast with a knack for ble
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taniakapoor98&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taniakapoor98&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taniakapoor98&layout=compact&theme=radical)
 
 ---
 
