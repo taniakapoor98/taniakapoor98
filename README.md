@@ -13,7 +13,7 @@ I’m a passionate AI/ML Engineer & Data Science  with a knack for blending tech
 - 💻 **AI/ML Intern** | Ask Ram Limited, UK (Feb 2025 – Present)  
 - 🛠️ **Technical Consultant** | Hitachi Vantara, India (2020–2023)  
 - 🌍 Based in: UK | Open to remote/Hybrid/global opportunities  
-- 📫 Reach me: [kapoortania0@gmail.com](kapoortania0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tania-kapoor-0450b0188/)
+- 📫 Reach me: [e-mail](kapoortania0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tania-kapoor-0450b0188/)
 
 ---
 
@@ -26,9 +26,10 @@ I’m a passionate AI/ML Engineer & Data Science  with a knack for blending tech
 
 - **AI/ML**: ANN, CNN, RNN, Transformers, Reinforcement Learning  
 - **Data Science**: Pandas, Scikit-learn, XGBoost, Time Series Analysis  
-- **NLP**: LLMs, Fine-Tuning, RAG, Hugging Face, LangChain  
+- **NLP/GenAI**: LLMs, Fine-Tuning, RAG, Hugging Face, LangChain  
 - **Tools**: Azure, GCP, REST API, Shiny, Plotly, Matplotlib  
-- **Domains**: EEG Signal Processing, Image Classification, OCR  
+- **Domains**: EEG Signal Processing, Image Classification, OCR
+- 
 
 ---
 
@@ -68,15 +69,14 @@ I’m a passionate AI/ML Engineer & Data Science  with a knack for blending tech
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taniakapoor98&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taniakapoor98&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Let’s Connect!
-- 📧 [Email me](mailto:your.email@example.com)  
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 💻 [Portfolio](https://yourportfolio.com) *(optional)*  
+- 📧 [Email me](kapoortania0@gmail.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/tania-kapoor-0450b0188) 
 
 *References available upon request | Available for immediate start.*
 
