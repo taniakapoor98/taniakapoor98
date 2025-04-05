@@ -42,15 +42,6 @@ I’m a passionate AI/ML Engineer & Data Science enthusiast with a knack for ble
 
 ---
 
-## 🎓 Education
-- **Masters in AI** | University of Essex, UK (2024–2025)  
-  *Distinction (85%)* | Top Scores: Data Science (93%), ML (91%)  
-- **B.E. in Computer Science** | Chitkara University, India (2016–2020)  
-  *9.13 CGPA*  
-- **Design Thinking & Innovation** | Harvard Business School Online (2022)  
-
----
-
 ## 🌟 Fun Facts
 - I once optimized an 8-hour ETL task to under an hour—coffee was my co-star! ☕  
 - I’m a Street Fighter AI champ in the virtual ring. 🕹️  
@@ -59,16 +50,13 @@ I’m a passionate AI/ML Engineer & Data Science enthusiast with a knack for ble
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taniakapoor98&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taniakapoor98&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taniakapoor98&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taniakapoor98&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Let’s Connect!
 - 📧 [Email me](mailto:kapoortania0@gmail.com)  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/tania-kapoor-0450b0188)  
-
-*References available upon request | Available for immediate start.*
 
 ---
 
