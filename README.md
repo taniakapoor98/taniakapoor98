@@ -9,11 +9,8 @@ I’m a passionate AI/ML Engineer & Data Science enthusiast with a knack for ble
 ---
 
 ## 🚀 About Me
-- 🎓 **Masters in AI** | University of Essex, UK (Distinction, 85%)  
-- 💻 **AI/ML Intern** | Ask Ram Limited, UK (Feb 2025 – Present)  
-- 🛠️ **Technical Consultant** | Hitachi Vantara, India (2020–2023)  
 - 🌍 Based in: UK | Open to remote/hybrid/global opportunities  
-- 📫 Reach me: [Email me](mailto:kapoortania0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tania-kapoor-0450b0188/)
+- 📫 Reach me: [Email me](mailto:kapoortania0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tania-kapoor-0450b0188/) | [GitHub](https://github.com/taniakapoor98)
 
 ---
 
