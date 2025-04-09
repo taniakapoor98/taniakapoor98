@@ -53,7 +53,8 @@ I’m a passionate AI/ML Engineer & Data Science enthusiast with a knack for ble
 
 ## 🤝 Let’s Connect!
 - 📧 [Email me](mailto:kapoortania0@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tania-kapoor-0450b0188)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/tania-kapoor-0450b0188)
+- 🌟 [Portfolio](https://taniakapoor98.github.io/)
 
 ---
 
