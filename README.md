@@ -1,6 +1,6 @@
 # Hey there, I’m Tania Kapoor! 👋
 
-<img src="https://github.com/taniakapoor98/taniakapoor98/blob/main/github_gif.gif" alt="Profile Banner" width="150" height="150" />
+<img src="https://github.com/taniakapoor98/taniakapoor98/blob/main/github_gif.gif" alt="Profile Banner" width="220" height="150" />
 
 *Turning data into stories and code into impact.*
 
@@ -29,7 +29,13 @@ I'm an AI/ML Engineer with 4+ years of experience building data-driven solutions
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### ☁️ Cloud & APIs
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=rest&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=rest&logoColor=white)
+
 
 ### Top Projects
 - 🩺 **AI-Powered Healthcare App**: Multimodal RAG app with LLMs & OCR for blood test analysis.  
