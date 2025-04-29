@@ -10,7 +10,7 @@ I'm an AI/ML Engineer with 4+ years of experience building data-driven solutions
 
 ## 🚀 About Me
 - 🌍 Based in: UK | Open to remote/hybrid/global opportunities  
-- 📫 Reach me: [Email me](mailto:kapoortania0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tania-kapoor-0450b0188/) | [GitHub](https://github.com/taniakapoor98)
+- 📫 Reach me: [Email me](mailto:kapoortania0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tania-kapoor-0450b0188/) | [GitHub](https://github.com/taniakapoor98) | [Portfolio](https://taniakapoor98.github.io/)
 
 ---
 
@@ -41,25 +41,6 @@ I'm an AI/ML Engineer with 4+ years of experience building data-driven solutions
 - 🩺 **AI-Powered Healthcare App**: Multimodal RAG app with LLMs & OCR for blood test analysis.  
 - 🎮 **Street Fighter AI**: RL bots with PPO & DQN for optimized gameplay.  
 - 🧠 **Mental Workload GUI**: SVM-based EEG workload classifier with Tkinter interface.
-
----
-
-## 🌟 Fun Facts
-- I once optimized an 8-hour ETL task to under an hour—coffee was my co-star! ☕  
-- I’m a Street Fighter AI champ in the virtual ring. 🕹️  
-- I geek out over EEG signals and time series—data whispers secrets to me!  
-
----
-
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taniakapoor98&layout=compact&theme=radical)
-
----
-
-## 🤝 Let’s Connect!
-- 📧 [Email me](mailto:kapoortania0@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tania-kapoor-0450b0188)
-- 🌟 [Portfolio](https://taniakapoor98.github.io/)
 
 ---
 
