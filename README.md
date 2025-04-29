@@ -1,10 +1,10 @@
 # Hey there, I’m Tania Kapoor! 👋
 
-<img src="https://github.com/taniakapoor98/taniakapoor98/blob/main/github_gif.gif" alt="Profile Banner" width="600" />
+<img src="https://github.com/taniakapoor98/taniakapoor98/blob/main/github_gif.gif" alt="Profile Banner" width="150" height="150" />
 
 *Turning data into stories and code into impact.*
 
-I’m a passionate AI/ML Engineer & Data Science enthusiast with a knack for blending technical creativity with real-world solutions. From childhood, I’ve been driven to make a difference—now, I wield AI, ML, and data to craft tools that spark meaningful change. Whether it’s predicting energy surpluses or building healthcare apps, I see every dataset as a chance to innovate.
+I'm an AI/ML Engineer with 4+ years of experience building data-driven solutions using **Python**, **Node.js**, and cloud platforms like **Azure** and **GCP**. I specialize in deploying end-to-end AI apps, combining tools like **Pandas**, **Scikit-learn**, **TensorFlow**, and **LangChain**. From real-time analytics to multimodal LLMs, I turn complex data into impactful applications.
 
 ---
 
@@ -33,7 +33,6 @@ I’m a passionate AI/ML Engineer & Data Science enthusiast with a knack for ble
 
 ### Top Projects
 - 🩺 **AI-Powered Healthcare App**: Multimodal RAG app with LLMs & OCR for blood test analysis.  
-- 🌞 **Energy Surplus Prediction**: LSTM model with 0.8 R² score for solar/wind energy forecasting.  
 - 🎮 **Street Fighter AI**: RL bots with PPO & DQN for optimized gameplay.  
 - 🧠 **Mental Workload GUI**: SVM-based EEG workload classifier with Tkinter interface.
 
