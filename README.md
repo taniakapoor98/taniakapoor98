@@ -1,6 +1,8 @@
 # Hey there, I’m Tania Kapoor! 👋
 
-<img src="https://github.com/taniakapoor98/taniakapoor98/blob/main/github_gif.gif" alt="Profile Banner" width="220" height="150" />
+<p align="center">
+  <img src="https://github.com/taniakapoor98/taniakapoor98/blob/main/github_gif.gif" alt="Profile Banner" width="220" height="150" />
+</p>
 
 *Turning data into stories and code into impact.*
 
